@@ -1,0 +1,32 @@
+{
+  "name": "MagicMirrorModuleNoteTaker",
+  "version": "1.0.0",
+  "description": "Companion Magic Mirror Module to the Alexa skill Note Taker, which displays the notes stored in DynamoDB by the Alexa skill.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joanaz/MirrorMirrorOnTheWallSkill"
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "AWS Lambda",
+    "Alexa",
+    "skill",
+    "DynamoDB",
+    "notebook",
+    "note taker",
+    "take note",
+    "notes"
+  ],
+  "author": "Joanna Zhang",
+  "contributors": "https://github.com/joanaz/MirrorMirrorOnTheWallSkill/graphs/contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joanaz/MirrorMirrorOnTheWallSkill/issues"
+  },
+  "homepage": "https://github.com/joanaz/MirrorMirrorOnTheWallSkill#readme",
+  "dependencies": {
+    "aws-sdk": "latest"
+  }
+}
