@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joanaz/MirrorMirrorOnTheWallSkill"
+    "url": "git+https://github.com/joanaz/MMM-NoteTaker"
   },
   "keywords": [
     "magic mirror",
@@ -20,12 +20,12 @@
     "notes"
   ],
   "author": "Joanna Zhang",
-  "contributors": "https://github.com/joanaz/MirrorMirrorOnTheWallSkill/graphs/contributors",
+  "contributors": "https://github.com/joanaz/MMM-NoteTaker/graphs/contributors",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joanaz/MirrorMirrorOnTheWallSkill/issues"
+    "url": "https://github.com/joanaz/MMM-NoteTaker/issues"
   },
-  "homepage": "https://github.com/joanaz/MirrorMirrorOnTheWallSkill#readme",
+  "homepage": "https://github.com/joanaz/MMM-NoteTaker#readme",
   "dependencies": {
     "aws-sdk": "latest"
   }
