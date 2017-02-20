@@ -25,7 +25,7 @@ When you have your __Access Key ID__ and __Secret Access Key__, open a terminal,
 
 The entry in your Magic Mirror config.js can look like the following. 
 
-You have to retrieve your Alexa User ID from the Alexa skill Note Taker, by asking the skill "what's my user ID?". Then your Alexa user ID will be displayed on your Alexa companion mobile app. Copy and paste your Alexa user ID in your config.js entry.
+You have to retrieve your Alexa User ID from the Alexa skill Note Taker, by asking the skill "what's my user ID?". Then your Alexa user ID will be displayed on your Alexa companion mobile app. Copy and paste your Alexa user ID to your config.js entry.
 
 ```Javascript
 {
